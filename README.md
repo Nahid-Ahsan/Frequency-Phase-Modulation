@@ -17,22 +17,17 @@ or VCO. Indirect generation of FM is governed by the Armstrong method which is q
 to AM generation. If the carrier signal 𝑐(𝑡) = 𝐴𝑐 cos 𝜔𝑐 𝑡 and message is 𝑚(𝑡), the FM signal is
 given as,
 
-S_𝐹𝑀(𝑡) = 𝐴𝑐 cos (𝜔𝑐 𝑡 + 𝑘𝑓 ∫ 𝑚(𝜏)𝑑𝜏
-𝑡
-−∞
-)
+![fist eq1](https://drive.google.com/file/d/1jTiwr7Us_jX2OLjXwhSB7nyT3Zk1av9F/view?usp=sharing)
 
-Note that, the total phase angle, 𝜃(𝑡) = 𝜔𝑐 𝑡 + 𝑘𝑓 ∫ 𝑚(𝜏)𝑑𝜏
-𝑡
-−∞
+Note that, the total phase angle,
+![](https://drive.google.com/file/d/1_YQAb_d9FxRVfFemrtU-4LsfcE1V_V-1/view?usp=sharing)
 ; the instantaneous frequency is
 given by,
 
-𝜔𝑖 (𝑡) =
-𝑑𝜃(𝑡)
-𝑑𝑡
-= 𝜔𝑐 + 𝑘𝑓𝑚(𝑡)
+![](https://drive.google.com/file/d/1d2lAfN7wF4GxgYFVHWKA4jVPrDPpUGzC/view?usp=sharing)
 
 Which is linearly dependent on the message signal m(t). Moreover, theoretically, the bandwidth
 (BW) of an FM signal is infinity, but considering the effective portion of the power spectral density
 of FM signal, Carson defined an approximate BW of FM signal by the following formula,
+
+![](https://drive.google.com/file/d/1_5Zg_h7q8Axno6ShnW2Iy6fYwiaFgn1s/view?usp=sharing)
