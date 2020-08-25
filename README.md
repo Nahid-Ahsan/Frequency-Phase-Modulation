@@ -17,7 +17,7 @@ or VCO. Indirect generation of FM is governed by the Armstrong method which is q
 to AM generation. If the carrier signal 𝑐(𝑡) = 𝐴𝑐 cos 𝜔𝑐 𝑡 and message is 𝑚(𝑡), the FM signal is
 given as,
 
-![fist eq1](https://drive.google.com/file/d/1jTiwr7Us_jX2OLjXwhSB7nyT3Zk1av9F/view?usp=sharing)
+![alt txt](https://drive.google.com/file/d/1jTiwr7Us_jX2OLjXwhSB7nyT3Zk1av9F/view?usp=sharing)
 
 Note that, the total phase angle,
 ![](https://drive.google.com/file/d/1_YQAb_d9FxRVfFemrtU-4LsfcE1V_V-1/view?usp=sharing)
