@@ -17,14 +17,12 @@ or VCO. Indirect generation of FM is governed by the Armstrong method which is q
 to AM generation. If the carrier signal 𝑐(𝑡) = 𝐴𝑐 cos 𝜔𝑐 𝑡 and message is 𝑚(𝑡), the FM signal is
 given as,
 
-![alt txt](https://drive.google.com/file/d/1jTiwr7Us_jX2OLjXwhSB7nyT3Zk1av9F/view?usp=sharing)
+![alt txt](https://latex.codecogs.com/gif.latex?S_%7BFM%7D%20%3D%20A_%7Bc%7D%20COS%28%5Comega%20_%7Bc%7Dt%20&plus;%20k_%7Bf%7D%5Cint_%7B-%5Cinfty%20%7D%5E%7Bt%7D%20m%28%5Ctau%20%29d%5Ctau%20%29)
 
-Note that, the total phase angle,
-![](https://drive.google.com/file/d/1_YQAb_d9FxRVfFemrtU-4LsfcE1V_V-1/view?usp=sharing)
-; the instantaneous frequency is
+Note that, the total phase angle, ![](https://latex.codecogs.com/gif.latex?%5Ctheta%20%28t%29%20%3D%20%5Comega%20_%7Bc%7Dt%20&plus;%20k_%7Bf%7D%5Cint_%7B-%5Cinfty%20%7D%5E%7Bt%7D%20m%28%5Ctau%20%29d%5Ctau); the instantaneous frequency is
 given by,
 
-![](https://drive.google.com/file/d/1d2lAfN7wF4GxgYFVHWKA4jVPrDPpUGzC/view?usp=sharing)
+![](https://latex.codecogs.com/gif.latex?%5Comega%20_%7Bi%7D%28t%29%20%3D%20%5Cfrac%7Bd%5Ctheta%20%28t%29%7D%7Bdt%7D%20%3D%20%5Comega%20_%7Bc%7D%20&plus;%20k_%7Bf%7Dm%28t%29)
 
 Which is linearly dependent on the message signal m(t). Moreover, theoretically, the bandwidth
 (BW) of an FM signal is infinity, but considering the effective portion of the power spectral density
