@@ -28,4 +28,9 @@ Which is linearly dependent on the message signal m(t). Moreover, theoretically,
 (BW) of an FM signal is infinity, but considering the effective portion of the power spectral density
 of FM signal, Carson defined an approximate BW of FM signal by the following formula,
 
-![](https://drive.google.com/file/d/1_5Zg_h7q8Axno6ShnW2Iy6fYwiaFgn1s/view?usp=sharing)
+![](https://latex.codecogs.com/gif.latex?BW_%7BFM%7D%20%3D%202B_%7BM%7D%281&plus;B%29)
+
+Where, frequency deviation factor,
+![](https://latex.codecogs.com/gif.latex?%5Cbeta%20%3D%20%5Cfrac%7B%5Cdelta%20F%7D%7BB_%7BM%7D%7D%3B%20%5Cdelta%20F%20%3D%20k_%7Bf%7D%5Cfrac%7Bm_%7Bmax%7D-m_%7Bmin%7D%7D%7B4%5Cpi%20%7D%3B)
+And for sinusoidal,
+![](https://latex.codecogs.com/gif.latex?%5Cdelta%20F%20%3D%20%5Cfrac%7Bk_%7Bf%7DA_%7Bm%7D%7D%7B2%5Cpi%20%7D)
